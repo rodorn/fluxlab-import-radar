@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fluxlab-import-radar"
+version = "0.1.0"
+description = "Radar oplacalnosci importu aut DE/NL -> PL (FluxLab)."
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31", "beautifulsoup4>=4.12"]
+
+[project.scripts]
+import-radar = "import_radar.cli:main"
+
+[tool.setuptools]
+packages = ["import_radar"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

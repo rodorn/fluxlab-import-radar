@@ -1,0 +1,29 @@
+{
+  "_note": "PRZYKLAD, mediany cen sprzedazy w PL (Otomoto) dla dopasowania make|model|year. Dane demonstracyjne, nie odczyt live.",
+  "prices": [
+    { "make": "Volkswagen", "model": "Golf", "year": 2019, "price_pln": 72000 },
+    { "make": "Skoda", "model": "Octavia", "year": 2020, "price_pln": 79000 },
+    { "make": "Audi", "model": "A4", "year": 2019, "price_pln": 101000 },
+    { "make": "BMW", "model": "320d", "year": 2018, "price_pln": 86000 },
+    {
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": 2019,
+      "price_pln": 90000
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "E220d",
+      "year": 2018,
+      "price_pln": 117000
+    },
+    { "make": "Audi", "model": "Q5", "year": 2018, "price_pln": 138000 },
+    { "make": "Toyota", "model": "Corolla", "year": 2020, "price_pln": 93000 },
+    { "make": "Tesla", "model": "Model3", "year": 2020, "price_pln": 136000 },
+    { "make": "Opel", "model": "Astra", "year": 2019, "price_pln": 58000 },
+    { "make": "BMW", "model": "530d", "year": 2017, "price_pln": 106000 },
+    { "make": "Skoda", "model": "Fabia", "year": 2020, "price_pln": 49000 },
+    { "make": "BMW", "model": "X5", "year": 2017, "price_pln": 178000 },
+    { "make": "Ford", "model": "Focus", "year": 2019, "price_pln": 56000 }
+  ]
+}

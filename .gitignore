@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+out/*.html
+# sekrety NIE w repo
+.env
+*.secret
+config.local.*
