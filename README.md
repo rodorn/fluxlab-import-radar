@@ -6,7 +6,7 @@ Narzedzie CLI liczy pelny koszt sprowadzenia auta (cena, akcyza, transport, tlum
 rejestracja, badanie, bufor na usterki), porownuje z realistyczna cena sprzedazy w PL
 i zwraca ranking marzy netto: "te auta z DE oplaca sie teraz sprowadzic, marza X".
 
-Projekt FluxLab, [fluxlab.pl](https://fluxlab.pl).
+Projekt FluxLab, [fluxlab.pl](https://fluxlab.pl). Wersja online: [fluxlab.pl/import-radar](https://fluxlab.pl/import-radar).
 
 ## Co robi
 
